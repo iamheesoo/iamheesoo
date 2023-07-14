@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 #### 😎 PS 기록 블로그
 <https://iamheesoo.github.io/blog/>
 #### 🥰 기타 개발 블로그
-<https://velog.io/@deepblue>
+<https://android-diary.tistory.com/>
 
