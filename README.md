@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 #### 😎 PS 기록 블로그
-<https://iamheesoo.github.io/blog/>
+<https://iamheesoo.github.io/blog>
 #### 🥰 기타 개발 블로그
-<https://android-diary.tistory.com/>
+<https://android-diary.tistory.com>
 
